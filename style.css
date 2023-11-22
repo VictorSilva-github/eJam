@@ -1,0 +1,800 @@
+
+
+
+.clarifion-upsell {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.clarifion-upsell .div {
+  background-color: #ffffff;
+  width: 1500px;
+  height: 1379px;
+  position: relative;
+}
+.clarifion-upsell .USPS {
+  position: absolute;
+  width: 1500px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #252f3d;
+}
+.clarifion-upsell .element {
+  position: absolute;
+  width: 229px;
+  height: 22px;
+  top: 15px;
+  left: 127px;
+}
+.clarifion-upsell .img {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 0;
+  left: 0;
+}
+.clarifion-upsell .text-wrapper {
+  position: absolute;
+  top: 7px;
+  left: 30px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+}
+
+.clarifion-upsell .element-2 {
+  position: absolute;
+  width: 259px;
+  height: 22px;
+  top: 15px;
+  left: 468px;
+}
+.clarifion-upsell .element-3 {
+  position: absolute;
+  width: 194px;
+  height: 22px;
+  top: 15px;
+  left: 847px;
+}
+.clarifion-upsell .element-4 {
+  position: absolute;
+  width: 211px;
+  height: 22px;
+  top: 15px;
+  left: 1154px;
+}
+.clarifion-upsell .overlap {
+  position: absolute;
+  width: 1500px;
+  height: 161px;
+  top: 50px;
+  left: 0;
+}
+.clarifion-upsell .frame {
+  display: flex;
+  width: 1500px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 127px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+.clarifion-upsell .img-2 {
+  position: relative;
+  width: 192px;
+  height: 36px;
+  object-fit: cover;
+}
+.clarifion-upsell .frame-2 {
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 85px;
+  left: 432px;
+}
+.clarifion-upsell .wait-your-order-in {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+.clarifion-upsell .lorem-ipsum-dolor {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+.clarifion-upsell .frame-4 {
+  position: absolute;
+  width: 1245px;
+  height: 879px;
+  top: 351px;
+  left: 128px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  overflow: hidden;
+  padding-bottom: 65%;
+}
+.clarifion-upsell .image {
+  position: absolute;
+  width: 575px;
+  height: 591px;
+  top: 40px;
+  left: 40px;
+  object-fit: cover;
+}
+.clarifion-upsell .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  position: absolute;
+  top: 40px;
+  left: 655px;
+}
+.clarifion-upsell .ONE-TIME-ONLY {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+}
+.clarifion-upsell .span {
+  color: #2c7ef8;
+}
+.clarifion-upsell .text-wrapper-2 {
+  color: #000000;
+}
+.clarifion-upsell .frame-6 {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .group {
+  position: relative;
+  width: 134px;
+  height: 134px;
+  background-color: #2c7ef8;
+  border-radius: 10px;
+  background-image: url(./img/image-removebg-preview-12-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.clarifion-upsell .frame-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+.clarifion-upsell .frame-8 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+.clarifion-upsell .frame-9 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  text-shadow: 0px 6px 32px #00000061;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #969696;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+.clarifion-upsell .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #2c7ef8;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 30.8px;
+  white-space: nowrap;
+}
+.clarifion-upsell .stars {
+  position: relative;
+  width: 98px;
+  height: 18px;
+}
+.clarifion-upsell .frame-10 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .ellipse-wrapper {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background-color: #e3edff;
+  border-radius: 8px;
+}
+.clarifion-upsell .ellipse {
+  position: relative;
+  width: 9px;
+  height: 9px;
+  top: 4px;
+  left: 4px;
+  background-color: #2c7ef8;
+  border-radius: 4.27px;
+}
+.clarifion-upsell .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.39px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 300;
+  color: #37465a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.clarifion-upsell .p {
+  position: relative;
+  width: 398px;
+  margin-right: -6px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+.clarifion-upsell .frame-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .frame-12 {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .tick-circle {
+  position: relative;
+  width: 22.5px;
+  height: 22px;
+  margin-left: -0.25px;
+}
+.clarifion-upsell .negative-ion {
+  position: relative;
+  width: 447px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+}
+.clarifion-upsell .text-wrapper-7 {
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+}
+.clarifion-upsell .text-wrapper-8 {
+  font-weight: 700;
+}
+.clarifion-upsell .div-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  white-space: nowrap;
+}
+.clarifion-upsell .frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 542px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #edf3fc;
+  border-radius: 10px;
+}
+.clarifion-upsell .percent-wrapper {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-color: #2c7ef8;
+  border-radius: 16px;
+}
+.clarifion-upsell .percent {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 6px;
+  left: 6px;
+}
+.clarifion-upsell .save-and-get {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+.clarifion-upsell .frame-13 {
+  display: flex;
+  flex-direction: column;
+  width: 542px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .frame-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #59ae43;
+  border-radius: 50px;
+}
+.clarifion-upsell .frame-15 {
+  display: inline-flex;
+  align-items: center;
+  gap: 19.76px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .yes-claim-my {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.99px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.clarifion-upsell .line {
+  position: relative;
+  width: 16.99px;
+  height: 14.55px;
+  margin-right: -0.99px;
+}
+.clarifion-upsell .frame-16 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 8px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #cfcfcf;
+}
+.clarifion-upsell .free-shipping {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -2px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+}
+.clarifion-upsell .line-2 {
+  position: relative;
+  width: 1px;
+  height: 16px;
+  object-fit: cover;
+}
+.clarifion-upsell .frame-17 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .lock {
+  position: relative;
+  width: 12px;
+  height: 12px;
+}
+.clarifion-upsell .secure-bit-SSL {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+.clarifion-upsell .frame-18 {
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -2px;
+}
+.clarifion-upsell .no-thanks-i-don-t {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #f82c2c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+.clarifion-upsell .image-2 {
+  position: relative;
+  width: 88px;
+  height: 88px;
+}
+.clarifion-upsell .if-you-are-not {
+  position: relative;
+  width: 446px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+.clarifion-upsell .text-wrapper-9 {
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+.clarifion-upsell .frame-19 {
+  display: flex;
+  flex-direction: column;
+  width: 575px;
+  align-items: flex-start;
+  gap: 18px;
+  padding: 24px;
+  position: absolute;
+  top: 655px;
+  left: 40px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.clarifion-upsell .frame-20 {
+  display: inline-flex;
+  align-items: center;
+  gap: 13px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .rectangle {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.clarifion-upsell .name {
+  position: relative;
+  width: 176px;
+  height: 35.3px;
+}
+.clarifion-upsell .stars-2 {
+  position: absolute;
+  width: 78px;
+  height: 12px;
+  top: 0;
+  left: 0;
+}
+.clarifion-upsell .frame-21 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+.clarifion-upsell .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+.clarifion-upsell .verify {
+  position: relative;
+  width: 128px;
+  height: 16px;
+  margin-right: -2px;
+}
+.clarifion-upsell .text-wrapper-11 {
+  position: absolute;
+  top: 1px;
+  left: 26px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #5bb59a;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 14.4px;
+  white-space: nowrap;
+}
+.clarifion-upsell .verify-2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+.clarifion-upsell .text-wrapper-12 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #4d5254;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.clarifion-upsell .frame-22 {
+  position: absolute;
+  width: 1500px;
+  height: 88px;
+  top: 1291px;
+  left: 0;
+  background-color: #252f3d;
+}
+.clarifion-upsell .frame-23 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  padding: 8px 0px;
+  position: absolute;
+  top: 24px;
+  left: 127px;
+  border-radius: 4px;
+}
+.clarifion-upsell .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+.clarifion-upsell .line-3 {
+  position: relative;
+  width: 1px;
+  height: 24px;
+  object-fit: cover;
+}
+.clarifion-upsell .frame-24 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 36px;
+  left: 1120px;
+}
+.clarifion-upsell .lock-2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.clarifion-upsell .secure-bit-SSL-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+.clarifion-upsell .frame-25 {
+  display: flex;
+  width: 1245px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  top: 271px;
+  left: 128px;
+}
+.clarifion-upsell .frame-26 {
+  display: inline-flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+.clarifion-upsell .tick-circle-wrapper {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: #85bf55;
+  border-radius: 20px;
+}
+.clarifion-upsell .tick-circle-2 {
+  position: absolute;
+  width: 23px;
+  height: 17px;
+  top: 12px;
+  left: 9px;
+}
+.clarifion-upsell .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.clarifion-upsell .overlap-group-wrapper {
+  position: relative;
+  width: 42px;
+  height: 40px;
+}
+.clarifion-upsell .overlap-group {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: #2c7ef8;
+  border-radius: 20px;
+}
+.clarifion-upsell .text-wrapper-15 {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.clarifion-upsell .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.clarifion-upsell .overlap-group-2 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid;
+  border-color: #2c7ef8;
+}
+.clarifion-upsell .text-wrapper-17 {
+  position: absolute;
+  top: 11px;
+  left: 12px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #2c7ef8;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
